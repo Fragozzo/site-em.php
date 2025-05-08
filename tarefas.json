@@ -1,0 +1,18 @@
+[
+    {
+        "id": "681925f218bad",
+        "titulo": "Limpar a casa",
+        "descricao": "Limpar a casa pela manha",
+        "prioridade": "baixa",
+        "data_criacao": "2025-05-05 22:56:18",
+        "data_limite": "2025-05-06",
+        "responsavel_id": "1",
+        "responsavel_nome": "Vitor Emanuel Krachinski",
+        "criador_id": 1,
+        "criador_nome": "Vitor Emanuel Krachinski",
+        "status": "concluida",
+        "concluida": true,
+        "data_conclusao": "2025-05-05 22:56:33",
+        "concluido_por": 1
+    }
+]

@@ -1,0 +1,12 @@
+[
+    {
+        "id": "681926011e6e1",
+        "tarefa_id": "681925f218bad",
+        "tipo": "status",
+        "valor_antigo": "pendente",
+        "valor_novo": "concluida",
+        "usuario_id": 1,
+        "usuario_nome": "Vitor Emanuel Krachinski",
+        "data": "2025-05-05 22:56:33"
+    }
+]

@@ -1,0 +1,15 @@
+[
+    {
+        "id": 1,
+        "nome": "Vitor Emanuel Krachinski",
+        "email": "vitoremanuel2408@gmail.com",
+        "senha": "$2y$10$dl0SgB8UWV2ANZpQfFN7Dez6u6gnBsTT4xb81rDG.JCDzZhKvkToG",
+        "remember_token": "a017ec0dcddcc8338c04e3d843b438d456ec4f9d78f5c62d9cb7d5bc2a60eb7f"
+    },
+    {
+        "id": 2,
+        "nome": "eduardo fragozo",
+        "email": "edu@gmail.com",
+        "senha": "$2y$10$iO3tDfc77FURVTkUnMfs9.z3uhZ5GwznxbcgbvWo8diM9KAostuv2"
+    }
+]
